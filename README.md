@@ -1,1 +1,0 @@
-# goodcar-rent-app
