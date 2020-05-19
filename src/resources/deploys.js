@@ -100,7 +100,12 @@ FullNameField.propTypes = {
 }
 
 export const DeployEventList = props => (
-  <List {...props} title='Deploy events' filters={<DeployProjectFilter />}>
+  <List
+    {...props}
+    title='Deploy events'
+    filters={<DeployProjectFilter />}
+    sort={{ field: 'createdAt', order: 'DESC' }}
+  >
     <Datagrid rowClick='edit'>
       <DateField source='createdAt' label='CreatedAt' />
       <TextField source='status' label='Status' />
