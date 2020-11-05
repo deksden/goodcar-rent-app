@@ -24,16 +24,16 @@
     ]
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.0.4",
-    "@testing-library/user-event": "^12.1.6",
+    "@testing-library/jest-dom": "^5.11.5",
+    "@testing-library/react": "^11.1.1",
+    "@testing-library/user-event": "^12.2.0",
     "node-fetch": "^2.6.1",
     "prop-types": "^15.7.2",
-    "ra-data-json-server": "^3.8.5",
+    "ra-data-json-server": "^3.9.6",
     "react": "^16.13.1",
-    "react-admin": "^3.8.5",
+    "react-admin": "^3.9.6",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.3"
+    "react-scripts": "^3.4.4"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
@@ -41,10 +41,10 @@
     "eslint": "^6.8.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-standard": "^4.0.1",
     "standard": "^14.3.4"
   }
