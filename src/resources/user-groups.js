@@ -14,7 +14,7 @@ const useStyles = makeStyles(FormStyles)
 const systemTypeNone = null
 const systemTypeAdmin = 'Admin'
 const systemTypeGuest = 'Guest'
-const systemTypeLoggedIn = 'LoggedIn'
+const systemTypeLoggedIn = 'Logged'
 
 const choices = [
   { id: systemTypeNone, name: '' },
